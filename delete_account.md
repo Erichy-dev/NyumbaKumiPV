@@ -1,6 +1,8 @@
+___
 title: Delete Account Data
 layout: template
 filename: delete_account.md
+___
 
 # Delete Account - NyumbaKumi
 
