@@ -1,7 +1,9 @@
 ___
-title: Delete Account Data
-layout: template
+title: "Delete Account Data"
+layout: page
 filename: delete_account.md
+permalink: /delete_account
+date: 2024-06-26
 ___
 
 # Delete Account - NyumbaKumi
